@@ -1,6 +1,7 @@
 some text written locally on my laptop
 
 some text written by someone else
-blax
-blay
-blaz
+
+bla1x
+bla2y
+bla3z
